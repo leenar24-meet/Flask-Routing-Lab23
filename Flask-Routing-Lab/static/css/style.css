@@ -1,1 +1,21 @@
+body {
+	background-image: url("https://images2.alphacoders.com/261/thumb-1920-26102.jpg");
+background-color: black;
+}
 
+h1{
+	color: white;
+	text-align: center;
+	font-family: serif;
+
+}
+p{
+	color:white ;
+	text-align: center;
+
+} 
+table, th, td {
+  border-style: solid;
+  border-color:white;
+  color: white;
+}
