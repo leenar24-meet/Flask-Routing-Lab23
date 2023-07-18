@@ -15,6 +15,9 @@ def hello():
 @app.route("/product")
 def product():
     return render_template('product.html')
+@app.route("/cart")
+def cart():
+    return render_template('cart.html')
 
 
 
